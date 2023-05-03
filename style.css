@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+body{
+    
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.Menus{
+    display: flex;
+    gap: 100px;
+    font-size: 5.0rem;
+    color: white;
+}
+
+main{
+    display: grid;
+    height: 100%;
+}
+
+h1{
+   
+    font-size: 15.0rem;
+    
+    
+}
+ p{
+     font-size: 5.0rem;
+ }
+
+
